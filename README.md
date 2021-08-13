@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Devananth/Devananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Devananth**, a learner and a software Developer who can build websites and web apps.
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning React and JS.
+- 👯 I look forward to collaborating on developing Landing pages and Web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a link to my [Portfolio](https://devananth-nkl.netlify.app/)
+
+<img src="https://komarev.com/ghpvc/?username=Devananth" alt="Devananth" />
+
+### Contact Me :
+
+[<img align="center" height="40" src="https://img.icons8.com/color/48/000000/hot-article.png"/>](https://devananth.hashnode.dev/)
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/devananth-a-60634219a/)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/devananthnkl)
+
